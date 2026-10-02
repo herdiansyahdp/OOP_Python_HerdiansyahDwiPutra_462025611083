@@ -2,27 +2,27 @@
 
 A collection of Python projects and exercises created while learning **Object-Oriented Programming (OOP)**.
 
-This repository documents my learning journey, from basic class and object concepts to more advanced OOP topics.
+This repository documents my learning journey from fundamental OOP concepts to a practical final project.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics
 
-* Classes & Objects
-* Instance Methods
-* Static Methods
-* `__str__`
-* Object Comparison
-* Encapsulation
-* Inheritance
-* Multiple Inheritance
-* Polymorphism
-* Duck Typing
-* Custom Exceptions
+- Classes & Objects
+- Instance Methods
+- Static Methods
+- `__str__`
+- Object Comparison
+- Encapsulation
+- Inheritance
+- Multiple Inheritance
+- Polymorphism
+- Duck Typing
+- Custom Exceptions
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```text
 python-oop-projects/
@@ -40,20 +40,20 @@ python-oop-projects/
 
 ---
 
-## 🧪 Final Project
+## 🚀 Final Project
 
-The final project combines several OOP concepts into a practical Python application.
+The repository includes a final project that applies OOP concepts in a practical Python application.
 
-More information and implementation details can be found inside the `FinalProject` directory.
+See the `FinalProject` directory for the implementation.
 
 ---
 
 ## 🛠️ Technologies
 
-* Python
-* Git
-* GitHub
-* Visual Studio Code
+- Python
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
@@ -61,12 +61,12 @@ More information and implementation details can be found inside the `FinalProjec
 
 This repository is part of my learning journey as an Informatics Engineering student.
 
-The goal is not only to complete assignments, but also to understand how Object-Oriented Programming concepts can be applied when building software.
+The goal is not only to complete coursework, but to understand how OOP concepts are applied when building software.
 
 ---
 
 ## 👨‍💻 Author
 
-**Herdiansyah**
+**Herdiansyah Dwi Putra**
 
 GitHub: [@herdiansyahdp](https://github.com/herdiansyahdp)
