@@ -20,7 +20,6 @@ Aplikasi web berbasis Python (Flask) untuk UPT Multimedia and Public Relations. 
 
 ## 2. Struktur Folder
 
-``s`text
 Final_Project/
 ├── app.py                  #Controller Flask (routing, penerima input UI, pemanggil model)
 ├── models.py               #Seluruh logika OOP murni Python (Layanan, Acara, Anggota, Database)
