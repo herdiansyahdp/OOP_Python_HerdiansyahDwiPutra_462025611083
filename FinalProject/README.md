@@ -1,6 +1,6 @@
 # Sistem Pengadaan Dokumentasi Multimedia
 
-Final Project mata kuliah **Object-Oriented Programming (OOP)**.
+Final Project mata kuliah **Object-Oriented Programming (OOP).**
 
 Aplikasi web berbasis Python (Flask) untuk UPT Multimedia and Public Relations. Aplikasi ini digunakan untuk mendata pengajuan pengadaan dokumentasi (Fotografi, Videografi, Broadcast, Drone, LED) di setiap acara kampus, menggantikan pencatatan manual dari surat masuk.
 
