@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Flask-3.0.3-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/OOP-Python-7C3AED?style=for-the-badge" alt="Object Oriented Programming"/>
   <img src="https://img.shields.io/badge/Storage-JSON-292929?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Project-Final%20Project- D4AF37?style=for-the-badge" alt="Final Project"/>
+  <img src="https://img.shields.io/badge/Project-Final%20Project-D4AF37?style=for-the-badge" alt="Final Project"/>
 </p>
 
 ---
@@ -361,7 +361,7 @@ Beberapa pengembangan yang dapat dipertimbangkan:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0: D4AF37,100:0B1B3D&height=100&section=footer" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0B1B3D&height=100&section=footer" alt="Footer banner"/>
 </p>
 
 ---
