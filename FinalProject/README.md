@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="static/img/logo.png" alt="Logo UPT Multimedia" width="110"/>
-</p>
-
-<p align="center">
   <strong>Aplikasi web untuk mengelola pengajuan kebutuhan dokumentasi acara dan data anggota UPT Multimedia &amp; Public Relation.</strong>
 </p>
 
